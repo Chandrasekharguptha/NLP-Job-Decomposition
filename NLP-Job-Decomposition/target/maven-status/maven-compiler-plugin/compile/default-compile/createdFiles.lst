@@ -1,0 +1,8 @@
+com\maxwell\taskdecomposition\infrastructure\config\OpenAiConfig.class
+com\maxwell\taskdecomposition\api\DecompositionController.class
+com\maxwell\taskdecomposition\TaskDecompositionApp.class
+com\maxwell\taskdecomposition\application\service\DecompositionService.class
+com\maxwell\taskdecomposition\domain\model\PromptRequest.class
+com\maxwell\taskdecomposition\infrastructure\llm\OpenAiClient.class
+com\maxwell\taskdecomposition\api\HomeController.class
+com\maxwell\taskdecomposition\domain\model\SubtaskResponse.class

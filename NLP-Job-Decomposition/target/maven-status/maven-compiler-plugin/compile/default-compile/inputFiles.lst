@@ -1,0 +1,8 @@
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\api\HomeController.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\application\service\DecompositionService.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\domain\model\PromptRequest.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\api\DecompositionController.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\infrastructure\config\OpenAiConfig.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\TaskDecompositionApp.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\infrastructure\llm\OpenAiClient.java
+C:\task-decomposition\src\main\java\com\maxwell\taskdecomposition\domain\model\SubtaskResponse.java

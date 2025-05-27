@@ -1,0 +1,3 @@
+com\maxwell\taskdecomposition\application\DecompositionServiceTest.class
+com\maxwell\taskdecomposition\api\DecompositionController.class
+com\maxwell\taskdecomposition\infrastructure\llm\OpenAiClientTest.class
